@@ -17,7 +17,7 @@ h2 {
 }
 
 h3 {
-    
+    border-top: 1px solid rgb(37, 37, 37);
 }
 
 p {
@@ -33,7 +33,7 @@ p {
 }
 
 table {
-
+    line-height: 1.3em;
 }
 
 a[target] {
