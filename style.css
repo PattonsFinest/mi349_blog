@@ -25,6 +25,7 @@ p {
 }
 
 #blogs {
+    display: flex;
     border-top: 1px dotted rgb(37, 37, 37);
 }
 
@@ -42,4 +43,15 @@ a[target] {
 
 .fun-facts {
     border-bottom: 10px solid rgb(37, 37, 37);
+}
+
+.img-frame {
+  float: right;
+  margin-left: 15px;
+}
+
+
+article{
+  padding: 15px;
+  margin: 15px;
 }
