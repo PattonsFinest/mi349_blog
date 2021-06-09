@@ -6,17 +6,18 @@ body {
 }
 
 h1 {
-
+    font-size: 3em;
+    margin: 0;
 }
 
 p {
-
+    line-height: 1.5em;
 }
 
 #blogs {
-
+    border-top: 1px dotted rgb(37, 37, 37);
 }
 
 .post {
-
+    border-bottom: 1px solid rgb(37, 37, 37);
 }
