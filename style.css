@@ -62,3 +62,8 @@ article{
     display: flex;
     margin: 15px;
 }
+
+form {
+    padding-right: 10px;
+    margin-right: 10px;
+}
